@@ -1,1 +1,2 @@
 c'est un fichier licence
+fichier pour tester Stashing dans une branche
